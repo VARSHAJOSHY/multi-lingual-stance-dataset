@@ -26,5 +26,5 @@ For additional reference, the details of these datasets, including the URL of th
   GitHub Repository - https://github.com/mirkolai/MultilingualStanceDetection
   Related Paper - https://doi.org/10.1016/j.csl.2020.101075
 
-#Purpose
+# Purpose
 When I was working on Multilingual Stance Detection task I didn't find any open source data-sets to work on, I believe there are people just like me who are working on these tasks and I hope it helps them.
